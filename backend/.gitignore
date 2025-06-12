@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+venv/
+.env
+.env.*
+
+# Ruff cache
+.ruff_cache/
+
+# Logs
+*.log
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Uvicorn reload files
+*.reload
